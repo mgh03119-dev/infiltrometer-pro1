@@ -1,2 +1,9 @@
-# infiltrometer-pro1
-a web based software on calculation infiltrometer of soil
+# فایل‌های قابل دانلود
+
+## 💧 InfiltrometerPro_Offline_v1.0.html  (≈ 497 KB)
+**نسخه دسکتاپ آفلاین نرم‌افزار «نفرومتر پرو» — INFILTROMETER PRO**
+
+- فایل را دانلود کنید و با دوبار کلیک در هر مرورگری (Chrome / Edge / Firefox) باز کنید — **بدون نیاز به اینترنت و نصب**.
+- موتور محاسباتی: Zhang (1997) + جدول ضریب A دستورالعمل Mini Disk (ASTM D8139)
+- ماژول‌ها: آزمون نفوذ (قرائت ۱۰ تا ۳۰۰ ثانیه) · آبگریزی آب/الکل (شاخص Tillman) · صحت‌سنجی با ۵ نمونه مرجع Carsel & Parrish · بانک آزمایش‌ها · گزارش چاپی PDF · خروجی CSV/JSON
+- تمام داده‌ها به‌صورت محلی (localStorage) ذخیره می‌شوند.
